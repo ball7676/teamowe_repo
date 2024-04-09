@@ -1,0 +1,1 @@
+print("Karol Malec. Nie lubie matmy.")
